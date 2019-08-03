@@ -1,4 +1,4 @@
 # Guestbook
 
-This is taken from the example ArgoCD apps.
+This is based on the example ArgoCD app, Guestbook.
 https://github.com/argoproj/argocd-example-apps/blob/master/guestbook/
